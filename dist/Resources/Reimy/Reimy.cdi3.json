@@ -1,0 +1,413 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param21",
+			"GroupId": "",
+			"Name": "ずーんon/off"
+		},
+		{
+			"Id": "Param22",
+			"GroupId": "",
+			"Name": "頬赤on/off"
+		},
+		{
+			"Id": "Param18",
+			"GroupId": "",
+			"Name": "闇落ち目on/off"
+		},
+		{
+			"Id": "Param19",
+			"GroupId": "",
+			"Name": "汗on/off"
+		},
+		{
+			"Id": "Param20",
+			"GroupId": "",
+			"Name": "音符on/off"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "",
+			"Name": "驚嘆on/off"
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "",
+			"Name": "く目on/off"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "",
+			"Name": "ハート目on/off"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "",
+			"Name": "しいたけ目on/off"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "",
+			"Name": "L耳揺れ物理演算"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "",
+			"Name": "R耳揺れ物理演算"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "",
+			"Name": "左目物理演算"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "",
+			"Name": "右目物理演算"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "L耳毛物理演算"
+		},
+		{
+			"Id": "Param23",
+			"GroupId": "",
+			"Name": "R耳毛物理演算"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "胸毛物理演算X"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "胸毛物理演算Y"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "L頬毛物理演算"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "",
+			"Name": "R頬毛物理演算"
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "",
+			"Name": "胴体毛物理演算"
+		},
+		{
+			"Id": "Param25",
+			"GroupId": "",
+			"Name": "腕毛物理演算"
+		},
+		{
+			"Id": "Param26",
+			"GroupId": "",
+			"Name": "太もも毛物理演算"
+		},
+		{
+			"Id": "Param27",
+			"GroupId": "",
+			"Name": "つま先毛物理演算"
+		},
+		{
+			"Id": "Param28",
+			"GroupId": "",
+			"Name": "後頭毛物理演算"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "",
+			"Name": "L一の腕"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "",
+			"Name": "R一の腕"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "",
+			"Name": "L二の腕"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "",
+			"Name": "R二の腕"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左目　開閉"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "左目　笑顔"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右目　開閉"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "右目　笑顔"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "目玉 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "目玉 Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "左眉　上下"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "",
+			"Name": "左眉　左右"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "",
+			"Name": "右眉　左右"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "",
+			"Name": "左眉　角度"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "",
+			"Name": "右眉　角度"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "口　開閉"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "",
+			"Name": "照れ"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "",
+			"Name": "体の回転 X"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "体の回転 Z"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "",
+			"Name": "体の回転 Y"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "",
+			"Name": "髪揺れ　前"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "",
+			"Name": "髪揺れ　横"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "",
+			"Name": "髪揺れ　後"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part21",
+			"Name": "レイミィ差分"
+		},
+		{
+			"Id": "Part4",
+			"Name": "頭すべて"
+		},
+		{
+			"Id": "Part7",
+			"Name": "胸毛すべて"
+		},
+		{
+			"Id": "Part6",
+			"Name": "胴体すべて"
+		},
+		{
+			"Id": "Part5",
+			"Name": "腕すべて"
+		},
+		{
+			"Id": "Part3",
+			"Name": "首"
+		},
+		{
+			"Id": "Part2",
+			"Name": "太もも"
+		},
+		{
+			"Id": "Part13",
+			"Name": "つま先"
+		},
+		{
+			"Id": "Part",
+			"Name": "尻尾"
+		},
+		{
+			"Id": "Part18",
+			"Name": "口系"
+		},
+		{
+			"Id": "Part16",
+			"Name": "L目"
+		},
+		{
+			"Id": "Part17",
+			"Name": "R目"
+		},
+		{
+			"Id": "ArtMesh_Skinning",
+			"Name": "胸毛7(スキニング)"
+		},
+		{
+			"Id": "ArtMesh198_Skinning",
+			"Name": "胸毛6(スキニング)"
+		},
+		{
+			"Id": "ArtMesh3_Skinning",
+			"Name": "胸毛5(スキニング)"
+		},
+		{
+			"Id": "ArtMesh4_Skinning",
+			"Name": "胸毛4(スキニング)"
+		},
+		{
+			"Id": "ArtMesh5_Skinning",
+			"Name": "胸毛3(スキニング)"
+		},
+		{
+			"Id": "ArtMesh6_Skinning",
+			"Name": "胸毛2(スキニング)"
+		},
+		{
+			"Id": "ArtMesh7_Skinning",
+			"Name": "胸毛1(スキニング)"
+		},
+		{
+			"Id": "Part12",
+			"Name": "L"
+		},
+		{
+			"Id": "Part11",
+			"Name": "R"
+		},
+		{
+			"Id": "Part10",
+			"Name": "L"
+		},
+		{
+			"Id": "Part9",
+			"Name": "R"
+		},
+		{
+			"Id": "Part15",
+			"Name": "L"
+		},
+		{
+			"Id": "Part14",
+			"Name": "R"
+		},
+		{
+			"Id": "ArtMesh120_Skinning",
+			"Name": "尻尾(スキニング)"
+		},
+		{
+			"Id": "Part20",
+			"Name": "尻尾(回転)"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		],
+		[
+			"ParamBrowLY",
+			"ParamBrowLForm"
+		],
+		[
+			"ParamBrowRY",
+			"ParamBrowRForm"
+		],
+		[
+			"ParamMouthForm",
+			"ParamMouthOpenY"
+		]
+	]
+}

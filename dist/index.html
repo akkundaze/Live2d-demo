@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>課題テンプレート</title>
+  <link rel="stylesheet" href="https://unpkg.com/ress/dist/ress.min.css">
+  <!-- Live2D Cubism Core -->
+  <script src="./Core/live2dcubismcore.js"></script>
+  <script type="module" crossorigin src="./assets/index.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index.css">
+</head>
+
+<body class="page-a">
+  <!-- 共通の header と footer の CSS は shared/css/style.css です -->
+  <header class="site-header">
+    <h1 class="site-title">
+      <a href="../index.html" class="site-title-link">タイトル</a>
+    </h1>
+    <nav class="site-navigation">
+      <ul class="nav-list">
+        <li class="nav-item">
+          <a href="index.html" class="nav-link">ページA</a>
+        </li>
+        <li class="nav-item">
+          <a href="../page-b/index.html" class="nav-link">ページB</a>
+        </li>
+        <li class="nav-item">
+          <a href="../page-c/index.html" class="nav-link">ページC</a>
+        </li>
+      </ul>
+    </nav>
+  </header>
+
+  <!--
+    このページの main エリアの CSS は page-a/css/style.css です
+    page-a/css/style.css の中身の記述をすべて消してからの方が制作を進めやすいと思います
+  -->
+  <main>
+    <div class="page-a-main">
+      <section class="page-a-section">
+        <div class="page-a-section-header">
+          <h2 class="page-a-section-title">フェイストラッキング デモ</h2>
+          <p class="page-a-section-description">Webカメラであなたの顔を追跡し、Live2Dキャラクターが動きます。</p>
+        </div>
+        <!-- Live2Dキャラクター表示エリア -->
+        <div id="live2d-container" class="live2d-container">
+          <!-- canvasはJavaScriptで自動生成されます -->
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <h3>タイトル</h3>
+    <p>&copy; 2024 Zokei Taro</p>
+  </footer>
+
+  <!-- Live2D Script -->
+</body>
+
+</html>
